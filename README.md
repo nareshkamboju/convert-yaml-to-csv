@@ -1,1 +1,1 @@
-python3 main.py master-plan.yml
+python3 convert-yaml-to-csv.py master-plan.yml
